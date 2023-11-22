@@ -1,0 +1,37 @@
+* {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.immagine 1  {
+text-align: center; 
+}
+.immagine 2 { text-align: center; 
+
+    
+}
+header {
+    text-align: center; color: darkslategray;
+}
+main {
+    text-align: center;
+}
+
+.sottotitolo {
+    background-color: rgba(222, 184, 135, 0.356); color: darkslategray;
+}
+a {
+    color: rgb(9, 117, 121);
+}
+.featured {
+    color: rgb(180, 105, 5);
+}
+.fresh {
+
+}
+.body {
+    width: 50%; margin: auto;
+}
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
